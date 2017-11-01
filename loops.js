@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //TO DO - for loop exercise
+=======
+
+>>>>>>> b0d2414e7305aa2f59232f316c3d759d685cb9d8
 function forLoop(array) {
   for (var i = 0; i < 25; i++) {
     if (i === 0) {
@@ -10,6 +14,7 @@ function forLoop(array) {
   }
   return array
 }
+<<<<<<< HEAD
 //TO DO - while loop exercise
 function whileLoop(n) {
   while(n > 0) {
@@ -29,3 +34,5 @@ function doWhileLoop(array) {
   } while (array.length > 0 && maybeTrue());
   return array
 }
+=======
+>>>>>>> b0d2414e7305aa2f59232f316c3d759d685cb9d8
